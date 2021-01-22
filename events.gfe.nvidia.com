@@ -5,3 +5,4 @@ metrics.roblox.com
 s.youtube.com
 https://api-secure.solvemedia.com/
 aax-eu.amazon.co.uk
+teams.events.data.microsoft.com
